@@ -1,0 +1,37 @@
+*{
+	font-size: 13px;
+	font-family: Times New Roman;
+}
+
+.khungngoaicung{
+	width: 770px;
+	height: 425px;
+	border: solid 2px;
+}
+
+.tieude{
+	width: 770px;
+	height: 40px;
+}
+
+.sanpham{
+	width: 255px;
+	height: 190px;
+}
+
+img{
+	width: 115px;
+	height: 150px;
+}
+
+.gia{
+	background-color: #48adc9;
+}
+.chitiet{
+	background-color: #2d2d2d;
+}
+#td{
+	width: 50px;
+	height: 40px;
+	background-color: #48adc9;
+}

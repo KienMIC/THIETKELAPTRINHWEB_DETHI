@@ -1,0 +1,30 @@
+*{
+	font-size: 13px;
+	font-family: Tahoma;
+}
+
+.khungngoaicung{
+	width: 450px;
+	height: 469px;
+	border: solid 2px;
+}
+
+.tieude{
+	width: 450px;
+	height: 38px;
+	background-color: #d2d2d2;
+	font-weight: bold;
+	padding-top: 5px;
+}
+
+button{
+	background-color: #ffc339;
+	margin-left: 300px;
+	margin-top: 30px;
+}
+
+#name{
+	margin-left: 100px;
+	margin-top: 50px;
+}
+

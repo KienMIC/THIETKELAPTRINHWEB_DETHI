@@ -1,0 +1,35 @@
+*{
+	font-size: 14px;
+	font-family: Tahoma;
+}
+
+.khungngoaicung{
+	width: 400px;
+	height: 220px;
+	border: solid 2px;
+	margin-left: 500px;
+}
+
+.tieude{
+	width: 400px;
+	height: 40px;
+	background-color: #c0504c;
+}
+
+.button{
+	background-color: #d2d2d2;
+}
+#bt{
+	margin-top: 20px;
+	margin-left: 100px;
+}
+#td{
+	text-align: center;
+	font-weight: bold;
+}
+#l1{
+	margin-left: 90px;
+}
+input{
+	margin-top: 30px;
+}

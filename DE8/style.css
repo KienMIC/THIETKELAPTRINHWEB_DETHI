@@ -1,0 +1,41 @@
+*
+{
+	font-family: Tahoma;
+	font-size: 13px;
+}
+
+.khungngoaicung
+{
+	width: 908px;
+	height: 314px;
+	border: solid 2px;
+	margin-left: 300px;
+}
+
+.tieude
+{
+	width: 908px;
+	height: 45px;
+	background-color: #4c8e2a;
+	font-weight: bold;
+}
+
+.sanpham
+{
+	width: 170px;
+	height: 245px;
+	margin-left: 10px;
+	float: left;
+}
+
+#anhsp{
+	width: 160px;
+	height: 180px;
+}
+#td{
+	vertical-align: middle;
+}
+#inforsp
+{
+	font-weight: bold;
+}
